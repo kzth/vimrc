@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/kazuto/study/git/git_tutorial/.git'
+let g:netrw_dirhist_2='/Users/kazuto/study/nodejs/node-paperboy/example'
+let g:netrw_dirhist_3='/Users/kazuto/study/nodejs/node_modules/pubnub/examples'
+let g:netrw_dirhist_4='/Users/kazuto/study/rails/depot/app/assets/stylesheets'
+let g:netrw_dirhist_5='/Users/kazuto/study/ruby/redmine/db/migrate'
+let g:netrw_dirhist_6='/Users/kazuto/study/rails/chapter7/test/unit'
+let g:netrw_dirhist_7='/Users/kazuto/study/rails/chapter7/test/factories'
+let g:netrw_dirhist_8='/home/kzt/.vim/vundle.git'
